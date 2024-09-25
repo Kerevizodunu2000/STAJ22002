@@ -8,16 +8,15 @@ Sentiment Analysis ML Yaz Zorunlu Staj
 
 ## Grup Bilgileri
 
-| Öğrenci No  | Adı Soyadı                | Bölüm          		       | Proje Grup No  | Grup Üyelerinin Github Profilleri              |
-|------------ |---------------------------|--------------------------|----------------|------------------------------------------------|
-| 1200505063  |  Halil Şafak Şimşek  			| Yazılım Mühendisliği     | PROJE_17       | [Github](https://github.com/Kerevizodunu2000)  |
+| Öğrenci No  | Adı Soyadı                | Bölüm          		       | Grup Üyelerinin Github Profilleri              |
+|------------ |---------------------------|------------------------- |------------------------------------------------|
+| 1200505063  |  Halil Şafak Şimşek  			| Yazılım Mühendisliği     | [Github](https://github.com/Kerevizodunu2000)  |
 
 ---
 
 ## Proje Açıklaması
 
- Yaz zorunlu stajimda geliştirmiş olduğum makine öğrenmesi projesi. Cümle üzerinde duygu analizi yapılması amaçlanmaktadır. Proje kapsamında geliştirilen modellerin başarı oranları ve performans metrikleri detaylı bir şekilde değerlendirilecek, en etkili modelin belirlenmesi hedeflenmektedir. Kullanılan veri seti huggin face üzerinden elde edilmiştir 492.782 label hazırlanmış %10'u test için ayrılmıştır. Pozitif, negatif, nötr olmak üzere 3 farklı alanda labellama işlemi yapılmıştır. Bu veriseti , farklı kaynaklardan derlenmiş pozitif , negatif ve nötr sınıflardan örnekler içerir. Nötr cümleler wikipedia datasından alınmıştır. Ek olarak bazı rastgele inputlar nötr olarak eklenmiştir. Örneğin: "Lorem ipsum dolor sit amet.". 
-(<a https://huggingface.co/datasets/winvoker/turkish-sentiment-analysis-dataset'>Hugging Face Sitesine Ulaşmak İçin Tıklayınız.</a>)
+ Yaz zorunlu stajimda geliştirmiş olduğum makine öğrenmesi projesi. Cümle üzerinde duygu analizi yapılması amaçlanmaktadır. Proje kapsamında geliştirilen modellerin başarı oranları ve performans metrikleri detaylı bir şekilde değerlendirilecek, en etkili modelin belirlenmesi hedeflenmektedir. Kullanılan veri seti huggin face üzerinden elde edilmiştir 492.782 label hazırlanmış %10'u test için ayrılmıştır. Pozitif, negatif, nötr olmak üzere 3 farklı alanda labellama işlemi yapılmıştır. Bu veriseti , farklı kaynaklardan derlenmiş pozitif , negatif ve nötr sınıflardan örnekler içerir. Nötr cümleler wikipedia datasından alınmıştır. Ek olarak bazı rastgele inputlar nötr olarak eklenmiştir. Örneğin: "Lorem ipsum dolor sit amet.". [Hugging Face Sitesine Ulaşmak İçin Tıklayınız.](https://huggingface.co/datasets/winvoker/turkish-sentiment-analysis-dataset)
  
 ## Proje Dosya Yapısı
 
