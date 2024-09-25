@@ -36,6 +36,7 @@ Sentiment Analysis ML Yaz Zorunlu Staj
   - **/trstop-master**
   - **`README.md`**
 - **/Kopya Satırlarsı Silen Kod**
+  - `main.py`
 
     
 ## Kullanım
