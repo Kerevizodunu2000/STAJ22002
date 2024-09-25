@@ -16,7 +16,7 @@ Sentiment Analysis ML Yaz Zorunlu Staj
 
 ## Proje Açıklaması
 
- Yaz zorunlu stajimda geliştirmiş olduğum makine öğrenmesi projesi. Cümle üzerinde duygu analizi yapılması amaçlanmaktadır. Proje kapsamında geliştirilen modellerin başarı oranları ve performans metrikleri detaylı bir şekilde değerlendirilecek, en etkili modelin belirlenmesi hedeflenmektedir. Kullanılan veri seti huggin face üzerinden elde edilmiştir 492.782 label hazırlanmış %10'u test için ayrılmıştır. Pozitif, negatif, nötr olmak üzere 3 farklı alanda labellama işlemi yapılmıştır. Bu veriseti , farklı kaynaklardan derlenmiş pozitif , negatif ve nötr sınıflardan örnekler içerir. Nötr cümleler wikipedia datasından alınmıştır. Ek olarak bazı rastgele inputlar nötr olarak eklenmiştir. Örneğin: "Lorem ipsum dolor sit amet.". [Hugging Face Sitesine Ulaşmak İçin Tıklayınız.](https://huggingface.co/datasets/winvoker/turkish-sentiment-analysis-dataset)
+ Yaz zorunlu stajimda geliştirmiş olduğum makine öğrenmesi projesi. Cümle üzerinde duygu analizi yapılması amaçlanmaktadır. Proje kapsamında geliştirilen modellerin başarı oranları ve performans metrikleri detaylı bir şekilde değerlendirilecek, en etkili modelin belirlenmesi hedeflenmektedir. Kullanılan veri seti huggin face üzerinden elde edilmiştir 492.782 label hazırlanmış %10'u test için ayrılmıştır. Pozitif, negatif, nötr olmak üzere 3 farklı alanda labellama işlemi yapılmıştır. Bu veriseti , farklı kaynaklardan derlenmiş pozitif , negatif ve nötr sınıflardan örnekler içerir. Nötr cümleler wikipedia datasından alınmıştır. Ek olarak bazı rastgele inputlar nötr olarak eklenmiştir. Örneğin: "Lorem ipsum dolor sit amet.". [Hugging Face Sitesine Ulaşmak İçin Tıklayınız.](https://huggingface.co/datasets/winvoker/turkish-sentiment-analysis-dataset) Kopya Satırları Silen Kod adlı dosya içerisinde şirkette bana verilen bir konu üzerinde çalışırken zaman kazanamak için aynı satırdan bir daha bulunursa yani kopya satır bulunursa silen ve bazı aşamalarla gösteren bir kod. Kullanımı için verilerin Sheet1'de bulunması ve dosya adının "deneme.xlsx" olarak kaydedilmesi gerek kendinize göre değiştirme yapmak isterseniz kodun içerisinde değiştirilmesi gereken yerler belirtilmiştir. Konsol üzerinden çalıştırmak için dosyanın olduğu konuma gidip "python3 main.py" yazmanız yeterli olacaktır. 
  
 ## Proje Dosya Yapısı
 
@@ -35,7 +35,9 @@ Sentiment Analysis ML Yaz Zorunlu Staj
     - `Magza Yorumları Analiz 11 k`
   - **/trstop-master**
   - **`README.md`**
+- **/Kopya Satırlarsı Silen Kod**
 
+    
 ## Kullanım
 
 <ol style='list-style-type:number' >
